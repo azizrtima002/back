@@ -1,0 +1,3085 @@
+[
+ {
+  "page": 1,
+  "pages": 1,
+  "per_page": 1000,
+  "total": 192,
+  "sourceid": "2",
+  "sourcename": "World Development Indicators",
+  "lastupdated": "2026-07-01"
+ },
+ [
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "DE",
+    "value": "Germany"
+   },
+   "countryiso3code": "DEU",
+   "date": "2025",
+   "value": null,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "DE",
+    "value": "Germany"
+   },
+   "countryiso3code": "DEU",
+   "date": "2024",
+   "value": 2.692,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "DE",
+    "value": "Germany"
+   },
+   "countryiso3code": "DEU",
+   "date": "2023",
+   "value": 3.029,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "DE",
+    "value": "Germany"
+   },
+   "countryiso3code": "DEU",
+   "date": "2022",
+   "value": 3.327,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "DE",
+    "value": "Germany"
+   },
+   "countryiso3code": "DEU",
+   "date": "2021",
+   "value": 3.861,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "DE",
+    "value": "Germany"
+   },
+   "countryiso3code": "DEU",
+   "date": "2020",
+   "value": 4.225,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "DE",
+    "value": "Germany"
+   },
+   "countryiso3code": "DEU",
+   "date": "2019",
+   "value": 4.281,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "DE",
+    "value": "Germany"
+   },
+   "countryiso3code": "DEU",
+   "date": "2018",
+   "value": 4.537,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "DE",
+    "value": "Germany"
+   },
+   "countryiso3code": "DEU",
+   "date": "2017",
+   "value": 4.789,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "DE",
+    "value": "Germany"
+   },
+   "countryiso3code": "DEU",
+   "date": "2016",
+   "value": 5.171,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "DE",
+    "value": "Germany"
+   },
+   "countryiso3code": "DEU",
+   "date": "2015",
+   "value": 5.522,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "DE",
+    "value": "Germany"
+   },
+   "countryiso3code": "DEU",
+   "date": "2014",
+   "value": 5.734,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "DE",
+    "value": "Germany"
+   },
+   "countryiso3code": "DEU",
+   "date": "2013",
+   "value": 6.02,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "DE",
+    "value": "Germany"
+   },
+   "countryiso3code": "DEU",
+   "date": "2012",
+   "value": 6.439,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "DE",
+    "value": "Germany"
+   },
+   "countryiso3code": "DEU",
+   "date": "2011",
+   "value": 6.741,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "DE",
+    "value": "Germany"
+   },
+   "countryiso3code": "DEU",
+   "date": "2010",
+   "value": 6.927,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FR",
+    "value": "France"
+   },
+   "countryiso3code": "FRA",
+   "date": "2025",
+   "value": null,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FR",
+    "value": "France"
+   },
+   "countryiso3code": "FRA",
+   "date": "2024",
+   "value": 7.177,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FR",
+    "value": "France"
+   },
+   "countryiso3code": "FRA",
+   "date": "2023",
+   "value": 7.304,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FR",
+    "value": "France"
+   },
+   "countryiso3code": "FRA",
+   "date": "2022",
+   "value": 7.511,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FR",
+    "value": "France"
+   },
+   "countryiso3code": "FRA",
+   "date": "2021",
+   "value": 8.121,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FR",
+    "value": "France"
+   },
+   "countryiso3code": "FRA",
+   "date": "2020",
+   "value": 8.192,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FR",
+    "value": "France"
+   },
+   "countryiso3code": "FRA",
+   "date": "2019",
+   "value": 7.842,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FR",
+    "value": "France"
+   },
+   "countryiso3code": "FRA",
+   "date": "2018",
+   "value": 7.989,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FR",
+    "value": "France"
+   },
+   "countryiso3code": "FRA",
+   "date": "2017",
+   "value": 7.968,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FR",
+    "value": "France"
+   },
+   "countryiso3code": "FRA",
+   "date": "2016",
+   "value": 8.104,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FR",
+    "value": "France"
+   },
+   "countryiso3code": "FRA",
+   "date": "2015",
+   "value": 8.372,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FR",
+    "value": "France"
+   },
+   "countryiso3code": "FRA",
+   "date": "2014",
+   "value": 8.444,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FR",
+    "value": "France"
+   },
+   "countryiso3code": "FRA",
+   "date": "2013",
+   "value": 8.431,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FR",
+    "value": "France"
+   },
+   "countryiso3code": "FRA",
+   "date": "2012",
+   "value": 8.643,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FR",
+    "value": "France"
+   },
+   "countryiso3code": "FRA",
+   "date": "2011",
+   "value": 8.882,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FR",
+    "value": "France"
+   },
+   "countryiso3code": "FRA",
+   "date": "2010",
+   "value": 8.884,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "AT",
+    "value": "Austria"
+   },
+   "countryiso3code": "AUT",
+   "date": "2025",
+   "value": null,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "AT",
+    "value": "Austria"
+   },
+   "countryiso3code": "AUT",
+   "date": "2024",
+   "value": 5.123,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "AT",
+    "value": "Austria"
+   },
+   "countryiso3code": "AUT",
+   "date": "2023",
+   "value": 5.054,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "AT",
+    "value": "Austria"
+   },
+   "countryiso3code": "AUT",
+   "date": "2022",
+   "value": 5.122,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "AT",
+    "value": "Austria"
+   },
+   "countryiso3code": "AUT",
+   "date": "2021",
+   "value": 5.495,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "AT",
+    "value": "Austria"
+   },
+   "countryiso3code": "AUT",
+   "date": "2020",
+   "value": 5.375,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "AT",
+    "value": "Austria"
+   },
+   "countryiso3code": "AUT",
+   "date": "2019",
+   "value": 4.988,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "AT",
+    "value": "Austria"
+   },
+   "countryiso3code": "AUT",
+   "date": "2018",
+   "value": 5.043,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "AT",
+    "value": "Austria"
+   },
+   "countryiso3code": "AUT",
+   "date": "2017",
+   "value": 4.966,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "AT",
+    "value": "Austria"
+   },
+   "countryiso3code": "AUT",
+   "date": "2016",
+   "value": 4.879,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "AT",
+    "value": "Austria"
+   },
+   "countryiso3code": "AUT",
+   "date": "2015",
+   "value": 4.926,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "AT",
+    "value": "Austria"
+   },
+   "countryiso3code": "AUT",
+   "date": "2014",
+   "value": 4.948,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "AT",
+    "value": "Austria"
+   },
+   "countryiso3code": "AUT",
+   "date": "2013",
+   "value": 4.845,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "AT",
+    "value": "Austria"
+   },
+   "countryiso3code": "AUT",
+   "date": "2012",
+   "value": 4.797,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "AT",
+    "value": "Austria"
+   },
+   "countryiso3code": "AUT",
+   "date": "2011",
+   "value": 4.86,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "AT",
+    "value": "Austria"
+   },
+   "countryiso3code": "AUT",
+   "date": "2010",
+   "value": 4.839,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "NL",
+    "value": "Netherlands"
+   },
+   "countryiso3code": "NLD",
+   "date": "2025",
+   "value": null,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "NL",
+    "value": "Netherlands"
+   },
+   "countryiso3code": "NLD",
+   "date": "2024",
+   "value": 3.492,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "NL",
+    "value": "Netherlands"
+   },
+   "countryiso3code": "NLD",
+   "date": "2023",
+   "value": 3.558,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "NL",
+    "value": "Netherlands"
+   },
+   "countryiso3code": "NLD",
+   "date": "2022",
+   "value": 3.705,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "NL",
+    "value": "Netherlands"
+   },
+   "countryiso3code": "NLD",
+   "date": "2021",
+   "value": 4.17,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "NL",
+    "value": "Netherlands"
+   },
+   "countryiso3code": "NLD",
+   "date": "2020",
+   "value": 4.227,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "NL",
+    "value": "Netherlands"
+   },
+   "countryiso3code": "NLD",
+   "date": "2019",
+   "value": 3.985,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "NL",
+    "value": "Netherlands"
+   },
+   "countryiso3code": "NLD",
+   "date": "2018",
+   "value": 4.161,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "NL",
+    "value": "Netherlands"
+   },
+   "countryiso3code": "NLD",
+   "date": "2017",
+   "value": 4.288,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "NL",
+    "value": "Netherlands"
+   },
+   "countryiso3code": "NLD",
+   "date": "2016",
+   "value": 4.319,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "NL",
+    "value": "Netherlands"
+   },
+   "countryiso3code": "NLD",
+   "date": "2015",
+   "value": 4.426,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "NL",
+    "value": "Netherlands"
+   },
+   "countryiso3code": "NLD",
+   "date": "2014",
+   "value": 4.615,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "NL",
+    "value": "Netherlands"
+   },
+   "countryiso3code": "NLD",
+   "date": "2013",
+   "value": 4.702,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "NL",
+    "value": "Netherlands"
+   },
+   "countryiso3code": "NLD",
+   "date": "2012",
+   "value": 4.73,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "NL",
+    "value": "Netherlands"
+   },
+   "countryiso3code": "NLD",
+   "date": "2011",
+   "value": 4.88,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "NL",
+    "value": "Netherlands"
+   },
+   "countryiso3code": "NLD",
+   "date": "2010",
+   "value": 5.06,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "BE",
+    "value": "Belgium"
+   },
+   "countryiso3code": "BEL",
+   "date": "2025",
+   "value": null,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "BE",
+    "value": "Belgium"
+   },
+   "countryiso3code": "BEL",
+   "date": "2024",
+   "value": 5.285,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "BE",
+    "value": "Belgium"
+   },
+   "countryiso3code": "BEL",
+   "date": "2023",
+   "value": 5.469,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "BE",
+    "value": "Belgium"
+   },
+   "countryiso3code": "BEL",
+   "date": "2022",
+   "value": 5.659,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "BE",
+    "value": "Belgium"
+   },
+   "countryiso3code": "BEL",
+   "date": "2021",
+   "value": 6.457,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "BE",
+    "value": "Belgium"
+   },
+   "countryiso3code": "BEL",
+   "date": "2020",
+   "value": 6.689,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "BE",
+    "value": "Belgium"
+   },
+   "countryiso3code": "BEL",
+   "date": "2019",
+   "value": 6.297,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "BE",
+    "value": "Belgium"
+   },
+   "countryiso3code": "BEL",
+   "date": "2018",
+   "value": 6.543,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "BE",
+    "value": "Belgium"
+   },
+   "countryiso3code": "BEL",
+   "date": "2017",
+   "value": 6.87,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "BE",
+    "value": "Belgium"
+   },
+   "countryiso3code": "BEL",
+   "date": "2016",
+   "value": 7.023,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "BE",
+    "value": "Belgium"
+   },
+   "countryiso3code": "BEL",
+   "date": "2015",
+   "value": 7.137,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "BE",
+    "value": "Belgium"
+   },
+   "countryiso3code": "BEL",
+   "date": "2014",
+   "value": 7.445,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "BE",
+    "value": "Belgium"
+   },
+   "countryiso3code": "BEL",
+   "date": "2013",
+   "value": 7.744,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "BE",
+    "value": "Belgium"
+   },
+   "countryiso3code": "BEL",
+   "date": "2012",
+   "value": 7.838,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "BE",
+    "value": "Belgium"
+   },
+   "countryiso3code": "BEL",
+   "date": "2011",
+   "value": 7.998,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "BE",
+    "value": "Belgium"
+   },
+   "countryiso3code": "BEL",
+   "date": "2010",
+   "value": 8.356,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "IT",
+    "value": "Italy"
+   },
+   "countryiso3code": "ITA",
+   "date": "2025",
+   "value": null,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "IT",
+    "value": "Italy"
+   },
+   "countryiso3code": "ITA",
+   "date": "2024",
+   "value": 7.538,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "IT",
+    "value": "Italy"
+   },
+   "countryiso3code": "ITA",
+   "date": "2023",
+   "value": 7.637,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "IT",
+    "value": "Italy"
+   },
+   "countryiso3code": "ITA",
+   "date": "2022",
+   "value": 7.573,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "IT",
+    "value": "Italy"
+   },
+   "countryiso3code": "ITA",
+   "date": "2021",
+   "value": 8.325,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "IT",
+    "value": "Italy"
+   },
+   "countryiso3code": "ITA",
+   "date": "2020",
+   "value": 8.508,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "IT",
+    "value": "Italy"
+   },
+   "countryiso3code": "ITA",
+   "date": "2019",
+   "value": 7.837,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "IT",
+    "value": "Italy"
+   },
+   "countryiso3code": "ITA",
+   "date": "2018",
+   "value": 7.815,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "IT",
+    "value": "Italy"
+   },
+   "countryiso3code": "ITA",
+   "date": "2017",
+   "value": 8.003,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "IT",
+    "value": "Italy"
+   },
+   "countryiso3code": "ITA",
+   "date": "2016",
+   "value": 8.116,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "IT",
+    "value": "Italy"
+   },
+   "countryiso3code": "ITA",
+   "date": "2015",
+   "value": 8.036,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "IT",
+    "value": "Italy"
+   },
+   "countryiso3code": "ITA",
+   "date": "2014",
+   "value": 8.082,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "IT",
+    "value": "Italy"
+   },
+   "countryiso3code": "ITA",
+   "date": "2013",
+   "value": 8.291,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "IT",
+    "value": "Italy"
+   },
+   "countryiso3code": "ITA",
+   "date": "2012",
+   "value": 8.33,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "IT",
+    "value": "Italy"
+   },
+   "countryiso3code": "ITA",
+   "date": "2011",
+   "value": 8.248,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "IT",
+    "value": "Italy"
+   },
+   "countryiso3code": "ITA",
+   "date": "2010",
+   "value": 8.37,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "ES",
+    "value": "Spain"
+   },
+   "countryiso3code": "ESP",
+   "date": "2025",
+   "value": null,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "ES",
+    "value": "Spain"
+   },
+   "countryiso3code": "ESP",
+   "date": "2024",
+   "value": 11.5,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "ES",
+    "value": "Spain"
+   },
+   "countryiso3code": "ESP",
+   "date": "2023",
+   "value": 12.24,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "ES",
+    "value": "Spain"
+   },
+   "countryiso3code": "ESP",
+   "date": "2022",
+   "value": 12.643,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "ES",
+    "value": "Spain"
+   },
+   "countryiso3code": "ESP",
+   "date": "2021",
+   "value": 14.214,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "ES",
+    "value": "Spain"
+   },
+   "countryiso3code": "ESP",
+   "date": "2020",
+   "value": 15.12,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "ES",
+    "value": "Spain"
+   },
+   "countryiso3code": "ESP",
+   "date": "2019",
+   "value": 14.625,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "ES",
+    "value": "Spain"
+   },
+   "countryiso3code": "ESP",
+   "date": "2018",
+   "value": 14.958,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "ES",
+    "value": "Spain"
+   },
+   "countryiso3code": "ESP",
+   "date": "2017",
+   "value": 15.603,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "ES",
+    "value": "Spain"
+   },
+   "countryiso3code": "ESP",
+   "date": "2016",
+   "value": 16.479,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "ES",
+    "value": "Spain"
+   },
+   "countryiso3code": "ESP",
+   "date": "2015",
+   "value": 16.956,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "ES",
+    "value": "Spain"
+   },
+   "countryiso3code": "ESP",
+   "date": "2014",
+   "value": 17.292,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "ES",
+    "value": "Spain"
+   },
+   "countryiso3code": "ESP",
+   "date": "2013",
+   "value": 18.095,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "ES",
+    "value": "Spain"
+   },
+   "countryiso3code": "ESP",
+   "date": "2012",
+   "value": 18.923,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "ES",
+    "value": "Spain"
+   },
+   "countryiso3code": "ESP",
+   "date": "2011",
+   "value": 19.246,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "ES",
+    "value": "Spain"
+   },
+   "countryiso3code": "ESP",
+   "date": "2010",
+   "value": 19.677,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PT",
+    "value": "Portugal"
+   },
+   "countryiso3code": "PRT",
+   "date": "2025",
+   "value": null,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PT",
+    "value": "Portugal"
+   },
+   "countryiso3code": "PRT",
+   "date": "2024",
+   "value": 6.077,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PT",
+    "value": "Portugal"
+   },
+   "countryiso3code": "PRT",
+   "date": "2023",
+   "value": 6.562,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PT",
+    "value": "Portugal"
+   },
+   "countryiso3code": "PRT",
+   "date": "2022",
+   "value": 6.964,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PT",
+    "value": "Portugal"
+   },
+   "countryiso3code": "PRT",
+   "date": "2021",
+   "value": 7.846,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PT",
+    "value": "Portugal"
+   },
+   "countryiso3code": "PRT",
+   "date": "2020",
+   "value": 8.365,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PT",
+    "value": "Portugal"
+   },
+   "countryiso3code": "PRT",
+   "date": "2019",
+   "value": 8.29,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PT",
+    "value": "Portugal"
+   },
+   "countryiso3code": "PRT",
+   "date": "2018",
+   "value": 8.615,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PT",
+    "value": "Portugal"
+   },
+   "countryiso3code": "PRT",
+   "date": "2017",
+   "value": 8.931,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PT",
+    "value": "Portugal"
+   },
+   "countryiso3code": "PRT",
+   "date": "2016",
+   "value": 9.491,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PT",
+    "value": "Portugal"
+   },
+   "countryiso3code": "PRT",
+   "date": "2015",
+   "value": 9.994,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PT",
+    "value": "Portugal"
+   },
+   "countryiso3code": "PRT",
+   "date": "2014",
+   "value": 10.246,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PT",
+    "value": "Portugal"
+   },
+   "countryiso3code": "PRT",
+   "date": "2013",
+   "value": 10.628,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PT",
+    "value": "Portugal"
+   },
+   "countryiso3code": "PRT",
+   "date": "2012",
+   "value": 11.248,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PT",
+    "value": "Portugal"
+   },
+   "countryiso3code": "PRT",
+   "date": "2011",
+   "value": 11.663,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PT",
+    "value": "Portugal"
+   },
+   "countryiso3code": "PRT",
+   "date": "2010",
+   "value": 11.876,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PL",
+    "value": "Poland"
+   },
+   "countryiso3code": "POL",
+   "date": "2025",
+   "value": null,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PL",
+    "value": "Poland"
+   },
+   "countryiso3code": "POL",
+   "date": "2024",
+   "value": 2.277,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PL",
+    "value": "Poland"
+   },
+   "countryiso3code": "POL",
+   "date": "2023",
+   "value": 2.801,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PL",
+    "value": "Poland"
+   },
+   "countryiso3code": "POL",
+   "date": "2022",
+   "value": 3.362,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PL",
+    "value": "Poland"
+   },
+   "countryiso3code": "POL",
+   "date": "2021",
+   "value": 4.14,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PL",
+    "value": "Poland"
+   },
+   "countryiso3code": "POL",
+   "date": "2020",
+   "value": 4.667,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PL",
+    "value": "Poland"
+   },
+   "countryiso3code": "POL",
+   "date": "2019",
+   "value": 4.923,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PL",
+    "value": "Poland"
+   },
+   "countryiso3code": "POL",
+   "date": "2018",
+   "value": 5.466,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PL",
+    "value": "Poland"
+   },
+   "countryiso3code": "POL",
+   "date": "2017",
+   "value": 5.887,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PL",
+    "value": "Poland"
+   },
+   "countryiso3code": "POL",
+   "date": "2016",
+   "value": 6.415,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PL",
+    "value": "Poland"
+   },
+   "countryiso3code": "POL",
+   "date": "2015",
+   "value": 7.058,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PL",
+    "value": "Poland"
+   },
+   "countryiso3code": "POL",
+   "date": "2014",
+   "value": 7.541,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PL",
+    "value": "Poland"
+   },
+   "countryiso3code": "POL",
+   "date": "2013",
+   "value": 7.937,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PL",
+    "value": "Poland"
+   },
+   "countryiso3code": "POL",
+   "date": "2012",
+   "value": 8.541,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PL",
+    "value": "Poland"
+   },
+   "countryiso3code": "POL",
+   "date": "2011",
+   "value": 9.186,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "PL",
+    "value": "Poland"
+   },
+   "countryiso3code": "POL",
+   "date": "2010",
+   "value": 9.584,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "CZ",
+    "value": "Czechia"
+   },
+   "countryiso3code": "CZE",
+   "date": "2025",
+   "value": null,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "CZ",
+    "value": "Czechia"
+   },
+   "countryiso3code": "CZE",
+   "date": "2024",
+   "value": 2.238,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "CZ",
+    "value": "Czechia"
+   },
+   "countryiso3code": "CZE",
+   "date": "2023",
+   "value": 2.576,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "CZ",
+    "value": "Czechia"
+   },
+   "countryiso3code": "CZE",
+   "date": "2022",
+   "value": 2.988,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "CZ",
+    "value": "Czechia"
+   },
+   "countryiso3code": "CZE",
+   "date": "2021",
+   "value": 3.614,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "CZ",
+    "value": "Czechia"
+   },
+   "countryiso3code": "CZE",
+   "date": "2020",
+   "value": 3.937,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "CZ",
+    "value": "Czechia"
+   },
+   "countryiso3code": "CZE",
+   "date": "2019",
+   "value": 4.029,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "CZ",
+    "value": "Czechia"
+   },
+   "countryiso3code": "CZE",
+   "date": "2018",
+   "value": 4.459,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "CZ",
+    "value": "Czechia"
+   },
+   "countryiso3code": "CZE",
+   "date": "2017",
+   "value": 4.775,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "CZ",
+    "value": "Czechia"
+   },
+   "countryiso3code": "CZE",
+   "date": "2016",
+   "value": 5.069,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "CZ",
+    "value": "Czechia"
+   },
+   "countryiso3code": "CZE",
+   "date": "2015",
+   "value": 5.503,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "CZ",
+    "value": "Czechia"
+   },
+   "countryiso3code": "CZE",
+   "date": "2014",
+   "value": 5.921,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "CZ",
+    "value": "Czechia"
+   },
+   "countryiso3code": "CZE",
+   "date": "2013",
+   "value": 6.185,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "CZ",
+    "value": "Czechia"
+   },
+   "countryiso3code": "CZE",
+   "date": "2012",
+   "value": 6.51,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "CZ",
+    "value": "Czechia"
+   },
+   "countryiso3code": "CZE",
+   "date": "2011",
+   "value": 6.991,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "CZ",
+    "value": "Czechia"
+   },
+   "countryiso3code": "CZE",
+   "date": "2010",
+   "value": 7.361,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "HU",
+    "value": "Hungary"
+   },
+   "countryiso3code": "HUN",
+   "date": "2025",
+   "value": null,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "HU",
+    "value": "Hungary"
+   },
+   "countryiso3code": "HUN",
+   "date": "2024",
+   "value": 3.554,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "HU",
+    "value": "Hungary"
+   },
+   "countryiso3code": "HUN",
+   "date": "2023",
+   "value": 4.052,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "HU",
+    "value": "Hungary"
+   },
+   "countryiso3code": "HUN",
+   "date": "2022",
+   "value": 4.642,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "HU",
+    "value": "Hungary"
+   },
+   "countryiso3code": "HUN",
+   "date": "2021",
+   "value": 5.675,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "HU",
+    "value": "Hungary"
+   },
+   "countryiso3code": "HUN",
+   "date": "2020",
+   "value": 6.184,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "HU",
+    "value": "Hungary"
+   },
+   "countryiso3code": "HUN",
+   "date": "2019",
+   "value": 6.213,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "HU",
+    "value": "Hungary"
+   },
+   "countryiso3code": "HUN",
+   "date": "2018",
+   "value": 6.866,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "HU",
+    "value": "Hungary"
+   },
+   "countryiso3code": "HUN",
+   "date": "2017",
+   "value": 7.451,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "HU",
+    "value": "Hungary"
+   },
+   "countryiso3code": "HUN",
+   "date": "2016",
+   "value": 7.862,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "HU",
+    "value": "Hungary"
+   },
+   "countryiso3code": "HUN",
+   "date": "2015",
+   "value": 8.401,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "HU",
+    "value": "Hungary"
+   },
+   "countryiso3code": "HUN",
+   "date": "2014",
+   "value": 9.104,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "HU",
+    "value": "Hungary"
+   },
+   "countryiso3code": "HUN",
+   "date": "2013",
+   "value": 9.615,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "HU",
+    "value": "Hungary"
+   },
+   "countryiso3code": "HUN",
+   "date": "2012",
+   "value": 9.994,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "HU",
+    "value": "Hungary"
+   },
+   "countryiso3code": "HUN",
+   "date": "2011",
+   "value": 10.626,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "HU",
+    "value": "Hungary"
+   },
+   "countryiso3code": "HUN",
+   "date": "2010",
+   "value": 11.334,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FI",
+    "value": "Finland"
+   },
+   "countryiso3code": "FIN",
+   "date": "2025",
+   "value": null,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FI",
+    "value": "Finland"
+   },
+   "countryiso3code": "FIN",
+   "date": "2024",
+   "value": 7.108,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FI",
+    "value": "Finland"
+   },
+   "countryiso3code": "FIN",
+   "date": "2023",
+   "value": 7.161,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FI",
+    "value": "Finland"
+   },
+   "countryiso3code": "FIN",
+   "date": "2022",
+   "value": 7.22,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FI",
+    "value": "Finland"
+   },
+   "countryiso3code": "FIN",
+   "date": "2021",
+   "value": 8.039,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FI",
+    "value": "Finland"
+   },
+   "countryiso3code": "FIN",
+   "date": "2020",
+   "value": 8.139,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FI",
+    "value": "Finland"
+   },
+   "countryiso3code": "FIN",
+   "date": "2019",
+   "value": 7.494,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FI",
+    "value": "Finland"
+   },
+   "countryiso3code": "FIN",
+   "date": "2018",
+   "value": 7.621,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FI",
+    "value": "Finland"
+   },
+   "countryiso3code": "FIN",
+   "date": "2017",
+   "value": 7.842,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FI",
+    "value": "Finland"
+   },
+   "countryiso3code": "FIN",
+   "date": "2016",
+   "value": 7.865,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FI",
+    "value": "Finland"
+   },
+   "countryiso3code": "FIN",
+   "date": "2015",
+   "value": 7.843,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FI",
+    "value": "Finland"
+   },
+   "countryiso3code": "FIN",
+   "date": "2014",
+   "value": 8.037,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FI",
+    "value": "Finland"
+   },
+   "countryiso3code": "FIN",
+   "date": "2013",
+   "value": 8.219,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FI",
+    "value": "Finland"
+   },
+   "countryiso3code": "FIN",
+   "date": "2012",
+   "value": 8.184,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FI",
+    "value": "Finland"
+   },
+   "countryiso3code": "FIN",
+   "date": "2011",
+   "value": 8.218,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  },
+  {
+   "indicator": {
+    "id": "SL.UEM.TOTL.ZS",
+    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+   },
+   "country": {
+    "id": "FI",
+    "value": "Finland"
+   },
+   "countryiso3code": "FIN",
+   "date": "2010",
+   "value": 8.455,
+   "unit": "",
+   "obs_status": "",
+   "decimal": 3
+  }
+ ]
+]

@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# Environment / secrets
+.env
+.streamlit/secrets.toml
+
+# Local data
+cache/*
+!cache/.gitkeep
+logs/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store

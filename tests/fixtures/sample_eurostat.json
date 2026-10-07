@@ -1,0 +1,131 @@
+{
+  "version": "2.0",
+  "class": "dataset",
+  "label": "Unemployment by sex and age \u2013 annual data",
+  "source": "ESTAT",
+  "updated": "2026-04-24T23:00:00+0200",
+  "value": {
+    "0": 6.0,
+    "1": 5.9,
+    "2": 5.8,
+    "3": 6.5,
+    "4": 35.5,
+    "5": 31.4,
+    "6": 26.7,
+    "8": 18.9,
+    "9": 17.3,
+    "10": 18.7,
+    "11": 18.9
+  },
+  "status": {
+    "0": "b",
+    "3": "p",
+    "7": ":",
+    "11": "p"
+  },
+  "id": [
+    "freq",
+    "age",
+    "unit",
+    "sex",
+    "geo",
+    "time"
+  ],
+  "size": [
+    1,
+    1,
+    1,
+    1,
+    3,
+    4
+  ],
+  "dimension": {
+    "freq": {
+      "label": "Time frequency",
+      "category": {
+        "index": {
+          "A": 0
+        },
+        "label": {
+          "A": "Annual"
+        }
+      }
+    },
+    "age": {
+      "label": "Age class",
+      "category": {
+        "index": {
+          "Y15-24": 0
+        },
+        "label": {
+          "Y15-24": "From 15 to 24 years"
+        }
+      }
+    },
+    "unit": {
+      "label": "Unit of measure",
+      "category": {
+        "index": {
+          "PC_ACT": 0
+        },
+        "label": {
+          "PC_ACT": "Percentage of population in the labour force"
+        }
+      }
+    },
+    "sex": {
+      "label": "Sex",
+      "category": {
+        "index": {
+          "T": 0
+        },
+        "label": {
+          "T": "Total"
+        }
+      }
+    },
+    "geo": {
+      "label": "Geopolitical entity (reporting)",
+      "category": {
+        "index": {
+          "DE": 0,
+          "EL": 1,
+          "FR": 2
+        },
+        "label": {
+          "DE": "Germany",
+          "EL": "Greece",
+          "FR": "France"
+        }
+      }
+    },
+    "time": {
+      "label": "Time",
+      "category": {
+        "index": {
+          "2021": 0,
+          "2022": 1,
+          "2023": 2,
+          "2024": 3
+        },
+        "label": {
+          "2021": "2021",
+          "2022": "2022",
+          "2023": "2023",
+          "2024": "2024"
+        }
+      }
+    }
+  },
+  "extension": {
+    "lang": "EN",
+    "datasetId": "Unemployment",
+    "status": {
+      "label": {
+        "b": "break in time series",
+        "p": "provisional",
+        ":": "not available"
+      }
+    }
+  }
+}

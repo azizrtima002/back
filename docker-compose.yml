@@ -1,0 +1,49 @@
+# Local stack: PostgreSQL + one-shot ETL pipeline (+ optional dashboard).
+#   docker compose up -d                      -> postgres + pipeline (runs the ETL once, then exits)
+#   docker compose --profile dashboard up -d  -> also serves the dashboard on http://localhost:8501
+services:
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: mie
+      POSTGRES_PASSWORD: mie
+      POSTGRES_DB: migration_insights
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./sql/schema.sql:/docker-entrypoint-initdb.d/01_schema.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U mie -d migration_insights"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  pipeline:
+    build: .
+    environment:
+      DATABASE_URL: postgresql+psycopg://mie:mie@postgres:5432/migration_insights
+      CACHE_DIR: ./cache
+    volumes:
+      - ./cache:/app/cache
+      - ./logs:/app/logs
+    depends_on:
+      postgres:
+        condition: service_healthy
+    command: ["python", "-m", "app.run_etl"]
+    restart: "no"
+
+  dashboard:
+    build: .
+    profiles: ["dashboard"]
+    environment:
+      DATABASE_URL: postgresql+psycopg://mie:mie@postgres:5432/migration_insights
+    ports:
+      - "8501:8501"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    command: ["streamlit", "run", "app/dashboard.py", "--server.address=0.0.0.0", "--server.port=8501", "--server.headless=true"]
+
+volumes:
+  pgdata:

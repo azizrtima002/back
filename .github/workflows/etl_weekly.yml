@@ -1,0 +1,67 @@
+name: Weekly ETL refresh
+
+on:
+  schedule:
+    - cron: "17 5 * * 1"   # every Monday 05:17 UTC
+  workflow_dispatch:        # manual run from the Actions tab
+  push:
+    branches: [main]
+    paths: ["app/**", "tests/**", "requirements.txt", ".github/workflows/etl_weekly.yml"]
+  pull_request:
+
+concurrency:
+  group: etl-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Unit + integration tests (fixtures, SQLite)
+        run: pytest -v
+
+  etl:
+    # Real refresh only on schedule / manual trigger, never on PRs.
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    needs: test
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - name: Restore HTTP cache (stale-cache fallback if an API is down)
+        uses: actions/cache@v4
+        with:
+          path: cache
+          key: api-cache-${{ github.run_id }}
+          restore-keys: api-cache-
+
+      - name: Run incremental ETL
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          CACHE_TTL_HOURS: "1"
+        run: |
+          if [ -z "$DATABASE_URL" ]; then
+            echo "::error::Secret DATABASE_URL is not set (Settings > Secrets and variables > Actions)."
+            exit 1
+          fi
+          python -m app.run_etl
+
+      - name: Upload run log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: etl-log-${{ github.run_id }}
+          path: logs/
+          retention-days: 30
